@@ -27,6 +27,11 @@ h4 {
 	margin-top: 20px;
 }
 
+.s3{
+	grid-column: span 3;
+}
+
+
 header,
 section {
 	display: grid;
