@@ -27,6 +27,7 @@ h4 {
 	margin-top: 20px;
 }
 
+/*terza colonna*/
 .s3{
 	grid-column: span 3;
 }
